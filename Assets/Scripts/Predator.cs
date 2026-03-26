@@ -207,7 +207,7 @@ public class Predator : MonoBehaviour
 
         if (hit.collider != null)
         {
-            float offset = transform.localScale.magnitude * 0.5f;
+            float offset = transform.localScale.magnitude * 0.8f;
             destination = hit.point - (Vector2)direction.normalized * offset;
         }
         else
