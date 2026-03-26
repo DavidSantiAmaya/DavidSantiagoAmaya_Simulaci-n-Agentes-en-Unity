@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 412a9a21fc8885b499f8437d6c3a3b8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6978434155067234825
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_0
+  - first:
+      213: -2800102340858268473
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_1
+  - first:
+      213: 4692210783193745320
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_2
+  - first:
+      213: -8569236173208811534
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_3
+  - first:
+      213: 7727550521944597355
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_4
+  - first:
+      213: -5814243608382105520
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_5
+  - first:
+      213: -1001027955730433562
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_6
+  - first:
+      213: 6489501851492562726
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_7
+  - first:
+      213: 6574248767073095356
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_8
+  - first:
+      213: -1142407463644385719
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_9
+  - first:
+      213: -7153891641466534567
+    second: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 355
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5c3504e068d060800000000000000
+      internalID: 6978434155067234825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4376ea1c90429d0800000000000000
+      internalID: -2800102340858268473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7458fc8d41e1140800000000000000
+      internalID: 4692210783193745320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 26
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7067b2a15f31980800000000000000
+      internalID: -8569236173208811534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b636464e146cd3b60800000000000000
+      internalID: 7727550521944597355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0589ccc4e38af4fa0800000000000000
+      internalID: -5814243608382105520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9b370c062ab12f0800000000000000
+      internalID: -1001027955730433562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62734731d875f0a50800000000000000
+      internalID: 6489501851492562726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe017afb6c6c3b50800000000000000
+      internalID: 6574248767073095356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea8bce67a5520f0800000000000000
+      internalID: -1142407463644385719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95540cc747548bc90800000000000000
+      internalID: -7153891641466534567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_0: 6978434155067234825
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_1: -2800102340858268473
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_10: -7153891641466534567
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_2: 4692210783193745320
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_3: -8569236173208811534
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_4: 7727550521944597355
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_5: -5814243608382105520
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_6: -1001027955730433562
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_7: 6489501851492562726
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_8: 6574248767073095356
+      Download Carrots, Vegetables, Healthy_ Royalty-Free Vector Graphic_9: -1142407463644385719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
